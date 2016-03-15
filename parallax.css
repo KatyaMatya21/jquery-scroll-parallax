@@ -1,0 +1,10 @@
+.parallax{
+  position: fixed;
+  top: 350px; /* your position */
+  left: 20px;  /* your position */
+  z-index: 1;
+
+  background: url("img/planet1.png") 0 0 no-repeat;  /* your picture */
+  width: 200px;  /* your width */
+  height: 200px;  /* your height */
+}
