@@ -49,6 +49,4 @@ You can simply customize blocks with parallax by yourself.
 ```
 jQuery 1.7+
 ```
-###Demo
-https://kate-work.ru/parallax/parallax.html
 
